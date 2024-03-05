@@ -1,0 +1,31 @@
+  /* Media Query for Laptops and Desktops */
+  @media (min-width: 1025px) and (max-width: 1280px){
+    .mobile-header {
+        display: none;
+    }
+
+    .mobile-tabs {
+        display: none;
+    }
+}
+  
+/* Media Query for Large screens */
+@media (min-width: 1281px) {
+    .mobile-header {
+        display: none;
+    }
+
+    .mobile-tabs {
+        display: none;
+    }
+}
+
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1366px !important;
+    }
+
+    .mobile-tabs {
+        display: none;
+    }
+}

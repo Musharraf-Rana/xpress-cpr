@@ -1,0 +1,6550 @@
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- Galaxy S6 ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- Google Pixel XL ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait and Landscape */
+@media screen and (device-width: 384px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 2) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 384px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 384px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- Nexus 5 ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 3) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* ----------- Nexus 6 and 6P ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 4) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 4) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 4) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait and Landscape */
+@media screen and (device-width: 480px) and (device-height: 800px) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Portrait */
+@media screen and (device-width: 480px) and (device-height: 800px) and (orientation: portrait) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+/* Landscape */
+@media screen and (device-width: 480px) and (device-height: 800px) and (orientation: landscape) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}
+
+@media(max-width: 320px) {
+
+    /* apply css here  */
+    .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+    .content-youtube h2 {
+    font-size: 25px;
+}
+    .CAB-img {
+    margin-top: 9%;
+}
+    .revies-sec{
+display:none;
+}
+    .animate h1 {
+    font-size: 25px;
+}
+    div#myCarousel {
+    display: none;
+}
+    .Subscribe input {
+    width: 100%;
+}
+    .x-press {
+    overflow-x: hidden;
+}
+    .banner-page-sec {
+    padding: 16% 0px;
+}
+    
+    .products ul li {
+    margin-top: 2px;
+}
+.Company ul li {
+    margin-top: 2px;
+}
+    footer .container {
+    padding: 0px 22px;
+    text-align: center;
+}
+    .side-img {
+    margin-top: 8%;
+}
+    .side-img img {
+    padding-right: 0%;
+}
+    .main-box-inside {
+    padding: 15px;
+}
+    .inner-box {
+    padding: 39px 21px;
+}
+    p {
+    font-size: 14px;
+}
+    .img-1.borders-combine {
+    border: 0;
+}
+    .img-1 img {
+    width: 46%;
+}
+
+.img-1 {
+    margin: 11% 0%;
+}
+    .main-story {
+    padding: 14% 0%;
+}
+    
+    .item-box3 {
+        margin-top: 29%;
+    }
+
+    .Subscribe button {
+        width: 100%;
+    }
+
+    .inner-watch {
+        font-size: 13px;
+        padding: 4% 1%;
+        background: white;
+        position: unset;
+        width: 100%;
+    }
+
+    .inner-watch {
+        padding-left: 23px;
+        margin: 0% 1%;
+    }
+
+
+    span.youtube-icon {
+        position: absolute;
+        left: 6px;
+    }
+
+    .main-watch {
+        padding: 15px;
+    }
+
+    .img-box img {
+        height: auto;
+    }
+
+    .inner-spress-content {
+        padding: 0% 3%;
+    }
+
+    .inputs-flex .input-1 {
+        width: 100%;
+    }
+
+    .inner-box {
+        right: unset;
+    }
+
+    .dashed {
+        padding-left: 68px;
+        height: 368px;
+        margin: 38px;
+        position: unset;
+    }
+
+    .dashed-boxes {
+        left: 5%;
+    }
+
+    .desktop-header {
+        display: none;
+    }
+}

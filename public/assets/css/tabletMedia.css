@@ -1,0 +1,173 @@
+  /* Media Query for low resolution  Tablets, Ipads */
+  @media (min-width: 481px) and (max-width: 767px) {
+     /* all tablet media queries  */
+     .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+     .Subscribe input {
+    width: 100%;
+}
+     
+     .dashed {
+    padding-left: 39px;
+}
+     .sec-space {
+    margin: 8% 0px;
+}
+     .Subscribe button {
+    width: 100%;
+}
+     .inputs-flex .input-1 {
+    width: 100%;
+}
+
+.save-right-box {
+    margin: 6% 0px;
+}
+     .desktop-header {
+        display: none;
+    }
+     .img-box img {
+    height: 331px;
+}
+     .CAB-img {
+    display: grid;
+    align-items: center;
+    height: 100%;
+}
+     .item-box3 {
+    margin-top: 28%;
+}
+     .inner-contenct-cab {
+    margin-top: 0;
+}
+.main-watch {
+    overflow-x: hidden;
+}
+.dashed {
+    position: relative;
+    margin: 0;
+    height: 407px;
+}
+
+.dashed-boxes {
+    left: -10%;
+}
+     .inner-watch {
+    right: 41px;
+    width: 100%;
+}
+     .inner-spress-content {
+    padding: 0% 4%;
+}
+
+.story-img img {
+    height: 414px;
+}
+     .img-1 img {
+    width: 67%;
+}
+     .inner-box {
+    width: 100%;
+    padding: 25px;
+    right: 0;
+}
+     .main-box-inside {
+        padding: 13px;
+    }
+}
+  
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 768px) and (max-width: 1024px){
+     /* all tablet media queries  */
+     .right0content {
+        width: 100%;
+    }
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-box-content {
+        padding: 0;
+    }
+     .Subscribe input {
+    width: 100%;
+}
+     .main-watch {
+        overflow-x: hidden;
+    }
+     .dashed {
+    padding-left: 39px;
+}
+     .sec-space {
+    margin: 8% 0px;
+}
+     .Subscribe button {
+    width: 100%;
+}
+     .inputs-flex .input-1 {
+    width: 100%;
+}
+
+.save-right-box {
+    margin: 6% 0px;
+}
+     .desktop-header {
+        display: none;
+    }
+     .img-box img {
+    height: 331px;
+}
+     .CAB-img {
+    display: grid;
+    align-items: center;
+    height: 100%;
+}
+     .item-box3 {
+    margin-top: 28%;
+}
+     .inner-contenct-cab {
+    margin-top: 0;
+}
+
+.dashed {
+    position: relative;
+    margin: 0;
+    height: 407px;
+}
+
+.dashed-boxes {
+    left: -10%;
+}
+     .inner-watch {
+    right: 41px;
+    width: 100%;
+}
+     .inner-spress-content {
+    padding: 0% 4%;
+}
+
+.story-img img {
+    height: 414px;
+}
+     .img-1 img {
+    width: 67%;
+}
+     .inner-box {
+    width: 136%;
+    padding: 25px;
+    right: 0;
+}
+     .main-box-inside {
+        padding: 13px;
+    }
+}
